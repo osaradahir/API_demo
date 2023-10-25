@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 # Crea la base de datos
 conn = mysql.connector.connect(
-    host="z3iruaadbwo0iyfp.cbetxkdyhwsb.us-east-1.rds.amazonaws.comi",
+    host="z3iruaadbwo0iyfp.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     user="wmhjmcqvopx2e78x",
     password="nu01fy3oragzkwlj",
     database="m1eydqiz75ifzot1"
