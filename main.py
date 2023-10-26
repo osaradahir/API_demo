@@ -4,11 +4,11 @@ from pydantic import BaseModel
 
 # Crea la base de datos
 conn = mysql.connector.connect(
-    host="kutnpvrhom7lki7u.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    user="ahqroajvrgxqjplt",
-    password="oqwx9y394pifrm65",
+    host="cxmgkzhk95kfgbq4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    user="xkejwecem2stftwq",
+    password="wqbvld003qh810zu",
     port="3306",
-    database="	lhs1f34aza51r2lb"
+    database="dn6weaf7cu038pql"
 )
 
 app = FastAPI()
