@@ -1,5 +1,3 @@
-USE lhs1f34aza51r2lb;
-
 CREATE TABLE contactos (
     email TEXT PRIMARY KEY,
     nombre TEXT,
